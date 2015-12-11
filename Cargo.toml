@@ -1,0 +1,4 @@
+[package]
+name = "cidr_utils"
+version = "0.1.0"
+authors = ["Chris Opland <christian.opland@here.com>"]
